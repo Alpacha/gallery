@@ -1,0 +1,14 @@
+.column {
+    float: left;
+    padding: 20px;
+}
+
+
+.column img {
+    opacity: 0.8;
+    cursor: help; /* onhover mouse - mouse effect*/
+}
+
+.column img:hover {
+    opacity: 12;
+}
